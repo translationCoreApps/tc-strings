@@ -1,4 +1,4 @@
-import * as strings from './strings';
+import * as strings from '../src/js/strings';
 
 describe('strings.normalizeString', () => {
   it('should normalize string by removing extra spaces into single contiguous space', () => {
